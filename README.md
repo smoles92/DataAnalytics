@@ -9,10 +9,10 @@ These notebooks implement the following techniques:
 *	Evaluate the performance of Linear regression, Logistic regression, and Random Forest models
 
 The notebooks implement the following ***python libraries***:
-*	pandas
-*	matplotlib
-*	numpy
-*	seaborn
-*	statsmodels
-*	scikit-learn
+*	*pandas*
+*	*matplotlib*
+*	*numpy*
+*	*seaborn*
+*	*statsmodels*
+*	*scikit-learn*
 
